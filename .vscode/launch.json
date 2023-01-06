@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CadastroDeLogin",
+            "request": "launch",
+            "mainClass": "CadastroDeLogin",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculadorDiferencaIdade",
+            "request": "launch",
+            "mainClass": "CalculadorDiferencaIdade",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculadorPorcentagemSalario",
+            "request": "launch",
+            "mainClass": "CalculadorPorcentagemSalario",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch CondicionaisAula1",
+            "request": "launch",
+            "mainClass": "CondicionaisAula1",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio",
+            "request": "launch",
+            "mainClass": "Exercicio",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecebendoDadosTeclado",
+            "request": "launch",
+            "mainClass": "RecebendoDadosTeclado",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch SalarioPorcentagem",
+            "request": "launch",
+            "mainClass": "SalarioPorcentagem",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch SalaryPercentageTwo",
+            "request": "launch",
+            "mainClass": "SalaryPercentageTwo",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestandoVariaveis",
+            "request": "launch",
+            "mainClass": "TestandoVariaveis",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch TorneioNatacao",
+            "request": "launch",
+            "mainClass": "TorneioNatacao",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaIdade",
+            "request": "launch",
+            "mainClass": "VerificaIdade",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaImparPar",
+            "request": "launch",
+            "mainClass": "VerificaImparPar",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch VerificaSalario",
+            "request": "launch",
+            "mainClass": "VerificaSalario",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch ViradoNoJiraya",
+            "request": "launch",
+            "mainClass": "ViradoNoJiraya",
+            "projectName": "java_b0346323"
+        }
+    ]
+}
