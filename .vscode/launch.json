@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DiasDaSemana",
+            "request": "launch",
+            "mainClass": "DiasDaSemana",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProcessoDeCadastramento",
+            "request": "launch",
+            "mainClass": "ProcessoDeCadastramento",
+            "projectName": "java_b0346323"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
