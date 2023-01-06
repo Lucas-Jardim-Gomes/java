@@ -5,10 +5,10 @@ public class CadastroDeLogin {
         Scanner input = new Scanner(System.in);
         System.out.println("Digite o seu nome: ");
         String nome = input.next();
-        if (nome == "admin" || nome == "administrador"){
+        if (nome.equalsIgnoreCase("admin") || nome.equalsIgnoreCase("administrador")){
             System.out.println("Usuário inválido");
         } else {
-            System.out.println(nome + "cadastrado com sucesso");
+            System.out.println(nome + " cadastrado com sucesso");
         }
     }
 }
